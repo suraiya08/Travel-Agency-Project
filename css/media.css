@@ -1,0 +1,60 @@
+@media screen and (min-width: 1280px) and (max-width: 1900px) {
+    .selection {
+        width: 70%;
+        left: 200px;
+    }
+    .home-package
+    {
+        height: 130vh;
+        margin-right: 10px;
+    }
+    .about-container
+    {
+        height: 125vh;
+        position: relative;
+        margin-top: -65%;
+
+    }
+    .packages
+    {
+        left: 10px;
+        height: 150vh;
+    }
+    .packages-footer
+    {
+        margin-bottom: 0;
+    }
+    .hotel-selection
+    {
+        width: 60%;
+        left: 20%;
+    }
+    .hotel-content-one
+    {
+        height: 120vh;
+    }
+    .contact-content
+    {
+        height: 30vh;
+    }
+    .contact-container
+    {
+
+        top: 50%;
+        left: 40px;
+    }
+
+    .contact-box
+    {
+        width: 35vh;
+        height: 35vh;
+    }
+    .map
+    {
+        margin-left: 80px;
+    }
+
+
+
+
+}
